@@ -1,7 +1,7 @@
 # 3D_portfolio
 React 18 Vite tailwind css portfolio
 
-<h2>Il faut créer un dossier avec le nom de l'application et ensuite :</h2>
+Il faut créer un dossier avec le nom de l'application et ensuite :
 -npm create vite@latest ./ -- --template react
   
 
