@@ -2,7 +2,7 @@
 React 18 Vite tailwind css portfolio
 
 Il faut créer un dossier avec le nom de l'application et ensuite :
-[](npm create vite@latest ./ -- --template react)
+[npm create vite@latest ./ -- --template react]()
 
 Installation de tailwind css:
 npm install -D tailwindcss (premiere partie)
