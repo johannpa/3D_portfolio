@@ -5,8 +5,8 @@ Il faut créer un dossier avec le nom de l'application et ensuite :
 [npm create vite@latest ./ -- --template react]()
 
 Installation de tailwind css:
-npm install -D tailwindcss (premiere partie)
-npx tailwindcss init
+[npm install -D tailwindcss]() (premiere partie)
+[npx tailwindcss init]()
 
 Installation de React router et de three js (les parties de threejs dont on a besoin) :
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
