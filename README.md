@@ -22,7 +22,7 @@ React 18 Vite tailwind css portfolio
 ### commandes sur le site : 
 - https://tailwindcss.com/docs/guides/vite
 
-Pour lancer l'application en local:
-npm run dev 
+### Pour lancer l'application en local:
+- [npm run dev]() 
 
 
