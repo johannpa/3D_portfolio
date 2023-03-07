@@ -22,6 +22,9 @@ React 18 Vite tailwind css portfolio
 ### commandes sur le site : 
 - https://tailwindcss.com/docs/guides/vite
 
+### dans le terminal il faut encore ajouter threejs c'est la suite :
+- [npm install --legacy-peer-deps three]()
+
 ### Pour lancer l'application en local:
 - [npm run dev]() 
 
