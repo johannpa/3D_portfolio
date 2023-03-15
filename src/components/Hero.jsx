@@ -16,11 +16,11 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Salut, je suis <span className='text-[#915EFF]'>Johann</span>
+            Salut, moi c'est <span className='text-[#915EFF]'>Johann</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, user <br className='sm:block hidden' />
-            interfaces and web applications. Dans le composant Hero pour changer cette phrase
+            Je suis un Développeur FullStack<br className='sm:block hidden' />
+            
           </p>
         </div>
       </div>
